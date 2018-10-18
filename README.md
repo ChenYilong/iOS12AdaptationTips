@@ -1,0 +1,2 @@
+# iOS12AdaptationTips
+iOS12AdaptationTips
